@@ -1,0 +1,19 @@
+.banner{
+    background-color: #4D00FF;
+    color: white;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+#img{
+    width: 300px;
+    height: 300px;
+
+}
+#cheeky{
+    color: #4D00FF;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+    
+}
